@@ -1,0 +1,113 @@
+# URL; Genre; Name
+http://79.172.241.238:8000/musicfmhigh; CHR-Dance; 89.5 Music FM
+http://94.199.183.186:80/jazzy.mp3; Jazz; 90.9 Jazzy Rádió
+http://195.56.65.180:8000/aktiv.mp3; Hot AC; Aktív Rádió
+http://37.221.209.146:8680/live.mp3; Ismeretlen; Alfa Rádió
+http://sarloutca.ddns.net:9220/fm889_high; Ismeretlen; Alpha Rádió
+http://www.amadeusradio.hu:8004/stream192; AC; Amadeus Rádió
+http://92.61.114.195:9950/; Hot AC; Bajai Rádió
+http://wssgd.gdsinfo.com:8200/; CHR; Balaton Rádió
+http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3; Klasszikus zene; Bartók Rádió
+http://stream.webthings.hu:8000/fm95-x-128.mp3; Hot AC; Best FM
+http://bestofradio.hu:9000/stream; Ismeretlen; Best Of Rádió
+http://109.74.61.208:8000/budaorsradio.mp3; Hot AC; Budaörs Rádió
+http://91.83.237.206:8000/frissradio96; Ismeretlen; Campus Rádió
+http://stream.cegledradio.hu:8000/; Hot AC; Cegléd Rádió
+http://civilradio.hu:8000/listen.mp3; Ismeretlen; Civil Rádió
+http://icast.connectmedia.hu/4784/live.mp3; Hot AC; Class FM
+http://95.140.43.42:8000/; Dance; Code FM
+http://hosting.42netmedia.com:10090/; Ismeretlen; Credo Rádió
+http://online.csabaradio.hu:8000/128kbps; Hot AC; Csaba Rádió
+http://streamer1.borsodweb.hu:48000/csillagpont; Ismeretlen; Csillagpont Rádió
+http://mr-stream.mediaconnect.hu/4750/mr6p.mp3; Nóta, népzene, operett; Dankó Rádió
+http://91.82.85.44:80/debrecenradiofm95; AC; Debrecen Rádió
+http://stream.dioradio.hu:8100/dioradio-gyongyos; Hot AC; Dió Rádió
+http://hosting.42netmedia.com:13070/; Hot AC; Dráva Hullám 102.7
+http://hosting.42netmedia.com:13010/; Ismeretlen; Egerszeg Rádió
+http://radio.elte.hu:8000/eper2; Ismeretlen; EPER
+http://stream.erdfm.hu:8000/; AC; Érd FM
+http://radio2.tirek.hu:8000/europaradio; Ismeretlen; Európa Rádió
+http://81.93.193.14:8000/; Ismeretlen; Fehérvár Rádió
+http://fm1radio.ubinet.hu:6742/; Ismeretlen; FM1 Rádió
+http://hosting.42netmedia.com:10070; Hot AC; FM7
+http://91.82.85.44:9000/; Ismeretlen; Forrás Rádió
+http://streamer.impressive.hu:8000/fortuna_paks_live; Hot AC; Fortuna Rádió
+http://hosting.42netmedia.com:10050/; CHR; Friss FM
+http://stream.gongradio.hu:8000/gong-fm.mp3; Hot AC; Gong Rádió
+http://hosting.42netmedia.com:9620/; AC; Győr+ Rádió
+http://92.61.114.195:8110/; Ismeretlen; Halas Rádió
+http://217.113.59.10:8020/live.mp3; Ismeretlen; Helikon Rádió
+http://radioszerver.hu:8400/; All-news; Inforádió
+http://netradio.nyugat.hu:8000/kormendlive; Ismeretlen; Isis Rádió – Körmend
+http://netradio.nyugat.hu:8000/sarvarlive; Ismeretlen; Isis Rádió – Sárvár
+http://hosting.42netmedia.com:13100/; Newstalk; Karc FM
+http://87.229.53.9:8006/; AC; Kék Duna Rádió – Győr
+http://212.92.23.237:8002/; AC; Kék Duna Rádió – Komárom-Esztergom megye
+http://212.92.23.237:8014/; AC; Kék Duna Rádió – Mosonmagyaróvár
+http://87.229.53.9:8004/; AC; Kék Duna Rádió – Székesfehérvár
+http://94.199.183.186:80/klasszik.mp3; Klasszikus zene; Klasszik Rádió
+http://stream.klubradio.hu:8080/source; Newstalk; Klubrádió
+http://37.221.209.146:7000/live.mp3; Ismeretlen; Kontakt Rádió
+http://82.141.165.6:8000/; Hot AC; KORONAfm100
+http://mr-stream.mediaconnect.hu/4736/mr1.mp3; Talk & News; Kossuth Rádió
+http://85.90.166.88:8000/live; Ismeretlen; Kunság Rádió
+http://stream.composeit.hu:8300/; Ismeretlen; Lakihegy Rádió
+http://91.82.85.44:9004/; Newstalk; Lánchíd Rádió
+http://katolikusradio.hu:9000/live_hi.mp3; Ismeretlen; Magyar Katolikus Rádió
+http://honlap.mariaradio.hu:8000/mr_ajka; Ismeretlen; Mária Rádió – Ajka
+http://honlap.mariaradio.hu:8000/mr_cegled; Ismeretlen; Mária Rádió – Cegléd
+http://honlap.mariaradio.hu:8000/mr_celldomolk; Ismeretlen; Mária Rádió – Celldömölk
+http://honlap.mariaradio.hu:8000/mr_mor; Ismeretlen; Mária Rádió – Mór
+http://honlap.mariaradio.hu:8000/mr_papa; Ismeretlen; Mária Rádió – Pápa
+http://honlap.mariaradio.hu:8000/mr_sarvar; Ismeretlen; Mária Rádió – Sárvár
+http://honlap.mariaradio.hu:8000/mr_varpalota; Ismeretlen; Mária Rádió – Várpalota
+http://honlap.mariaradio.hu:8000/mr_veszprem; Ismeretlen; Mária Rádió – Veszprém
+http://37.221.209.189:9560/; Ismeretlen; MaxiRádió
+http://213.157.112.64:8984/megaradio.mp3; AC; Mega Rádió
+http://host2.radioszerver.hu:9200/; Hot AC; Méz Rádió
+http://mr-stream.mediaconnect.hu/4744/mr4.mp3; Nemzetiségi műsorok; Nemzetiségi Rádió
+http://mr-stream.mediaconnect.hu/4746/mr5.mp3; Ismeretlen; Parlamenti adások
+http://napradio.hu:8000/napradio; Ismeretlen; Nap Rádió
+http://netradio.nyugat.hu:8000/live; Ismeretlen; Nyugat Rádió
+http://onair.ozonefm.hu:8004/; CHR; OzoneFM – Balaton
+http://o3.hu:9610/; CHR; OzoneFM – Győr
+http://onair.ozonefm.hu:8000/; CHR; OzoneFM – Miskolc
+http://onair.ozonefm.hu:8002/; CHR; OzoneFM – Szekszárd
+http://87.229.53.9:9000/; Hot AC; Part FM
+http://mr-stream.mediaconnect.hu/4738/mr2.mp3; CHR; Petőfi Rádió
+http://fixip.actor.hu:8012/stream/2/; Ismeretlen; Pont Rádió
+http://82.141.138.201:8099/stream; Ismeretlen; Rábaköz Rádió
+http://213.157.112.64:8984/radio1bcs.mp3; Ismeretlen; Rádió 1 Békéscsaba
+http://stream.radio1pecs.hu:8200/pecs.mp3; CHR; Rádió 1 Pécs
+http://hyades.shoutca.st:8652/hq; Hot AC; Rádió 24
+http://91.82.85.44:9006/; Ismeretlen; Rádió 451
+http://stream.radio88.hu:8000/; Hot AC; Rádió 88
+http://stream.radioantritt.hu:8000/Antritt; AC; Rádió Antritt
+http://stream3.virtualpro.hu:7093/; Ismeretlen; Rádió Dabas
+http://stream.radioeger.hu:18000/; Hot AC; Rádió Eger
+http://37.221.209.146:9340/live.mp3; Ismeretlen; Rádió Érd FM 87,8
+http://streamhost110.gtk.hu:9086/; Hot AC; Rádió Focus
+http://hosting.42netmedia.com:10060/; CHR; Rádió M
+http://5.159.233.17:8002/kmost.ogg; Hot AC; Rádió Most
+http://178.248.200.62:8000/radio.1.mp3; CHR; Rádió Pont 1
+http://radioszerver.hu:8300/; Ismeretlen; Radio Q
+http://92.61.114.195:8010/; CHR; Radio Smile
+http://87.229.45.44:8100/; Ismeretlen; Rádió Som
+http://radioszerver.net:19730/; Ismeretlen; Rádió Sun
+http://streamhost110.gtk.hu:9078/; Ismeretlen; Rádió Szarvas
+http://stream2.composeit.hu:8400/; Ismeretlen; Rádió Szentendre
+http://www.radiotop.hu:888/; Ismeretlen; Rádió Top
+http://stream.retrofm.hu:8000/listen; Hot AC; Retro Rádió
+http://91.82.84.179:8500/relay_911; Hot AC; Sirius Rádió - Kiskunfélegyháza
+http://91.82.84.179:8500/relay_882; Hot AC; Sirius Rádió - Kiskunmajsa
+http://109.199.57.91:80/4782/live.mp3; AC; Sláger FM
+http://195.56.193.129:8100/; CHR; Sunshine Rádió
+http://online.szentistvanradio.hu:7000/; Vallási műsorok; Szent István Rádió
+http://radioszerver.hu:9100/; Ismeretlen; Tamási Rádió
+http://radioszerver.hu:7070/; CHR; Táska Rádió
+http://stream.tilos.hu:80/tilos_128.mp3; Ismeretlen; Tilos Rádió
+http://hosting.42netmedia.com:10010/; Ismeretlen; Tisza-tó Rádió
+http://37.221.209.105:8040/; Ismeretlen; Torony Rádió
+http://radio.nordtelekom.hu:8000/gazdasagiradio; Ismeretlen; Trend FM
+http://79.172.217.50:9090/; CHR; Trió Rádió
+http://217.13.100.100:8000/vorosmarty_mid.mp3; AC; Vörösmarty Rádió
