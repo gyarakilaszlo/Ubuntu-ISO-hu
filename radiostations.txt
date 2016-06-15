@@ -1,6 +1,7 @@
 # URL; Genre; Name
 http://79.172.241.238:8000/musicfmhigh; CHR-Dance; 89.5 Music FM
 http://94.199.183.186:80/jazzy.mp3; Jazz; 90.9 Jazzy Rádió
+http://stream.radio1.hu:8000/mid.mp3; CHR; 96.4 Rádió 1
 http://195.56.65.180:8000/aktiv.mp3; Hot AC; Aktív Rádió
 http://37.221.209.146:8680/live.mp3; Ismeretlen; Alfa Rádió
 http://sarloutca.ddns.net:9220/fm889_high; Ismeretlen; Alpha Rádió
@@ -91,6 +92,7 @@ http://hosting.42netmedia.com:10060/; CHR; Rádió M
 http://5.159.233.17:8002/kmost.ogg; Hot AC; Rádió Most
 http://178.248.200.62:8000/radio.1.mp3; CHR; Rádió Pont 1
 http://radioszerver.hu:8300/; Ismeretlen; Radio Q
+http://92.61.114.195:13150/; Rock AC; Radió Rock 95.8
 http://92.61.114.195:8010/; CHR; Radio Smile
 http://87.229.45.44:8100/; Ismeretlen; Rádió Som
 http://radioszerver.net:19730/; Ismeretlen; Rádió Sun
