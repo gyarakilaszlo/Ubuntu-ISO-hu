@@ -102,7 +102,7 @@ http://www.radiotop.hu:888/; Ismeretlen; Rádió Top
 http://stream.retrofm.hu:8000/listen; Hot AC; Retro Rádió
 http://91.82.84.179:8500/relay_911; Hot AC; Sirius Rádió - Kiskunfélegyháza
 http://91.82.84.179:8500/relay_882; Hot AC; Sirius Rádió - Kiskunmajsa
-http://109.199.57.91:80/4782/live.mp3; AC; Sláger FM
+http://92.61.114.159:7812/slagerfm256.mp3; AC; Sláger FM
 http://195.56.193.129:8100/; CHR; Sunshine Rádió
 http://online.szentistvanradio.hu:7000/; Vallási műsorok; Szent István Rádió
 http://radioszerver.hu:9100/; Ismeretlen; Tamási Rádió
