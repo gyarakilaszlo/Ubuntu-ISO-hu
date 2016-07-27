@@ -69,7 +69,6 @@ http://host2.radioszerver.hu:9200/; Hot AC; Méz Rádió
 http://mr-stream.mediaconnect.hu/4744/mr4.mp3; Nemzetiségi műsorok; Nemzetiségi Rádió
 http://mr-stream.mediaconnect.hu/4746/mr5.mp3; Ismeretlen; Parlamenti adások
 http://napradio.hu:8000/napradio; Ismeretlen; Nap Rádió
-http://netradio.nyugat.hu:8000/live; Ismeretlen; Nyugat Rádió
 http://onair.ozonefm.hu:8004/; CHR; OzoneFM – Balaton
 http://o3.hu:9610/; CHR; OzoneFM – Győr
 http://onair.ozonefm.hu:8000/; CHR; OzoneFM – Miskolc
