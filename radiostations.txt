@@ -108,7 +108,7 @@ http://radioszerver.hu:9100/; Ismeretlen; Tamási Rádió
 http://radioszerver.hu:7070/; CHR; Táska Rádió
 http://stream.tilos.hu:80/tilos_128.mp3; Ismeretlen; Tilos Rádió
 http://hosting.42netmedia.com:10010/; Ismeretlen; Tisza-tó Rádió
-http://37.221.209.105:8040/; Ismeretlen; Torony Rádió
+http://87.229.45.44:8020/; Ismeretlen; Torony Rádió
 http://radio.nordtelekom.hu:8000/gazdasagiradio; Ismeretlen; Trend FM
 http://79.172.217.50:9090/; CHR; Trió Rádió
 http://217.13.100.100:8000/vorosmarty_mid.mp3; AC; Vörösmarty Rádió
