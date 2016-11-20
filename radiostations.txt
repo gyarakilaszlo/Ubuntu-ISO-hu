@@ -64,6 +64,7 @@ http://honlap.mariaradio.hu:8000/mr_varpalota; Ismeretlen; Mária Rádió – V�
 http://honlap.mariaradio.hu:8000/mr_veszprem; Ismeretlen; Mária Rádió – Veszprém
 http://37.221.209.189:9560/; Ismeretlen; MaxiRádió
 http://213.157.112.64:8984/megaradio.mp3; AC; Mega Rádió
+http://85.67.247.154:8000/stream; Hot AC; Megafon FM
 http://host2.radioszerver.hu:9200/; Hot AC; Méz Rádió
 http://mr-stream.mediaconnect.hu/4744/mr4.mp3; Nemzetiségi műsorok; Nemzetiségi Rádió
 http://mr-stream.mediaconnect.hu/4746/mr5.mp3; Ismeretlen; Parlamenti adások
