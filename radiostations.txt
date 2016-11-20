@@ -15,7 +15,6 @@ http://109.74.61.208:8000/budaorsradio.mp3; Hot AC; Budaörs Rádió
 http://91.83.237.206:8000/frissradio96; Ismeretlen; Campus Rádió
 http://stream.cegledradio.hu:8000/; Hot AC; Cegléd Rádió
 http://civilradio.hu:8000/listen.mp3; Ismeretlen; Civil Rádió
-http://icast.connectmedia.hu/4784/live.mp3; Hot AC; Class FM
 http://95.140.43.42:8000/; Dance; Code FM
 http://hosting.42netmedia.com:10090/; Ismeretlen; Credo Rádió
 http://online.csabaradio.hu:8000/128kbps; Hot AC; Csaba Rádió
