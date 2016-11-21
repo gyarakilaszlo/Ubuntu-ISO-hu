@@ -69,10 +69,6 @@ http://host2.radioszerver.hu:9200/; Hot AC; Méz Rádió
 http://mr-stream.mediaconnect.hu/4744/mr4.mp3; Nemzetiségi műsorok; Nemzetiségi Rádió
 http://mr-stream.mediaconnect.hu/4746/mr5.mp3; Ismeretlen; Parlamenti adások
 http://napradio.hu:8000/napradio; Ismeretlen; Nap Rádió
-http://onair.ozonefm.hu:8004/; CHR; OzoneFM – Balaton
-http://o3.hu:9610/; CHR; OzoneFM – Győr
-http://onair.ozonefm.hu:8000/; CHR; OzoneFM – Miskolc
-http://onair.ozonefm.hu:8002/; CHR; OzoneFM – Szekszárd
 http://87.229.53.9:9000/; Hot AC; Part FM
 http://mr-stream.mediaconnect.hu/4738/mr2.mp3; CHR; Petőfi Rádió
 http://fixip.actor.hu:8012/stream/2/; Ismeretlen; Pont Rádió
@@ -89,7 +85,6 @@ http://37.221.209.146:9340/live.mp3; Ismeretlen; Rádió Érd FM 87,8
 http://streamhost110.gtk.hu:9086/; Hot AC; Rádió Focus
 http://hosting.42netmedia.com:10060/; CHR; Rádió M
 http://5.159.233.17:8002/kmost.ogg; Hot AC; Rádió Most
-http://178.248.200.62:8000/radio.1.mp3; CHR; Rádió Pont 1
 http://radioszerver.hu:8300/; Ismeretlen; Radio Q
 http://92.61.114.195:13150/; Rock AC; Radió Rock 95.8
 http://92.61.114.195:8010/; CHR; Radio Smile
