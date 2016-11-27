@@ -1,5 +1,5 @@
 # URL; Genre; Name
-http://79.172.241.238:8000/musicfmhigh; CHR-Dance; 89.5 Music FM
+http://stream.musicfm.hu:8000/musicfm.mp3; CHR-Dance; 89.5 Music FM
 http://94.199.183.186:80/jazzy.mp3; Jazz; 90.9 Jazzy Rádió
 http://stream.radio1.hu:8000/mid.mp3; CHR; 96.4 Rádió 1
 http://195.56.65.180:8000/aktiv.mp3; Hot AC; Aktív Rádió
